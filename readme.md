@@ -67,5 +67,6 @@ Program menampilkan simulasi lampu yang bisa dinyalakan dan dimatikan menggunaka
 ### Rangkaian Lampu
 ![Lampu1](Rangkaian1.png)
 
-### Percobaan 2
+### Rangkaian Lampu
+
 ![Lampu2](Rangkaian2.png)
